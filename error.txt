@@ -1,0 +1,5 @@
+/mnt/c/Users/Michael/Desktop/files/students/Compilation_Error_gets_10/error1.c: In function ‘main’:
+/mnt/c/Users/Michael/Desktop/files/students/Compilation_Error_gets_10/error1.c:5:5: error: expected declaration or statement at end of input
+     printf("dfg");
+     ^~~~~~
+Error in: close
