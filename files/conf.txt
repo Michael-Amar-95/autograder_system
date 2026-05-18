@@ -1,0 +1,3 @@
+/mnt/.../students
+/mnt/.../input.txt
+/mnt/.../correct_output.txt
